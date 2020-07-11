@@ -8,7 +8,7 @@ To render the geometries, a class Renderer is defined in renderer.h and renderer
 An example that uses Containers and Renderer can be found in cube-container.C. To complile the programs, do 'make'. 
 You  will need GLEW and glm instlled in your local computer to build and run the program. 
 
-Type cubeC and then you will find a single cube is displayed. Type 'g', 'c', and 'r' to see what happen. click the left mouse button and drag the mouse to rotate the 
+Type cubeC and then you will find a single cube displayed. Type 'g', 'c', and 'r' to see what happen. click the left mouse button and drag the mouse to rotate the 
 cube.  Click the right mouse button and drag to scale the cube. 
 
 More explaination is still to come. 
