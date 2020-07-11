@@ -6,7 +6,7 @@ This library builds on top of OpenGL/C++ that allows easy creation and rendering
 To render the geometries, a class Renderer is defined in renderer.h and renderer.C. 
 
 An example that uses Containers and Renderer can be found in cube-container.C. To complile the programs, do 'make'. 
-You  will need GLEW and glm instlled in your local computer to build and run the program. 
+You  will need GLEW and glm installed on your local computer to build and run the program. 
 
 Type cubeC and then you will find a single cube displayed. Type 'g', 'c', and 'r' to see what happen. click the left mouse button and drag the mouse to rotate the 
 cube.  Click the right mouse button and drag to scale the cube. 
