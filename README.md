@@ -1,5 +1,5 @@
 # VIsRenderer
-This is a basic OpenGL renderer for some simple vis objects such as particles, isosurfaces and flow lines 
+This is a basic OpenGL renderer designed to draw some simple vis objects such as particles, isosurfaces and flow lines (to be done). 
 
 This library builds on top of OpenGL/C++ that allows easy creation and rendering of various types of VBOs. Currently the following geometry types are support: (1) Points 
 (2) Lines (3) Triangles (4) Quads (5) Mesh. All the geometries are defined in containers.h and containers, which include a base class Container and multiple subclasses. 
